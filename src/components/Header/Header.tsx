@@ -23,7 +23,8 @@ const HeaderComponent = styled.header`
   height: 10%;
   display: flex;
   align-items: center;
-  margin: 1em 0;
+  padding: 1em 0 0.5em 0;
+  border-bottom: 1px solid #f5f5f5;
 `;
 
 const Logo = styled.p`

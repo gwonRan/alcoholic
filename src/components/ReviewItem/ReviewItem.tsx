@@ -45,7 +45,7 @@ export default ReviewItem;
 
 const ReviewItemComponent = styled.li`
   width: 20%;
-  border: 1px solid #f0f0f0;
+  border: 1px solid #c4c4c4;
   border-radius: 10px;
   margin: 0 1em;
 `;
